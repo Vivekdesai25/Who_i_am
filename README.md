@@ -13,7 +13,7 @@
 
 🎓 I’m currently pursuing **Master of Computer Applications (MCA)** from **Nitte Meenakshi Institute of Technology**, Bengaluru, Karnataka.
 
-🧑‍💻 I'm a  __init__ **(fresher)** in the learning phase, passionate about building real-world projects 
+🧑‍💻 I'm a **fresher**, currently learning and excited to build real-world projects.
 
 🌱 Currently Importing : **Data Visualization**, **Python frameworks** 
 
