@@ -4,9 +4,8 @@
 📧 **Email**: vivekdesaipersonal@gmail.com  
 📱 **Phone**: 6360228217  
 💻 **LeetCode** – [Vivek Desai](https://leetcode.com/u/vivek252003/)  
-🌐 **GitHub Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)  
-📄 **Resume** – [View My Resume (PDF)](./vivek%20resume.pdf)  
-
+🌐 **GitHub Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)
+📄 **Resume** – [View My Resume (PDF)](https://github.com/Vivekdesai25/who-am-i/raw/main/vivek%20resume.pdf)
 
 ## 🎓 About Me
 
