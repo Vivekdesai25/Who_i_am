@@ -4,11 +4,9 @@
 📧 **Email**: vivekdesaipersonal@gmail.com  
 📱 **Phone**: 6360228217  
 💻 **LeetCode** – [Vivek Desai](https://leetcode.com/u/vivek252003/)  
-🌐 **Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)  
+🌐 **GitHub Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)  
 📄 **Resume** – [View My Resume (PDF)](./vivek%20resume.pdf)  
-🐙 **GitHub** – [github.com/Vivekdesai25](https://github.com/Vivekdesai25)
 
----
 
 ## 🎓 About Me
 
@@ -19,8 +17,6 @@
 🌱 Currently learning: **Data Visualization**, **Python frameworks** 
 
 💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -39,10 +35,7 @@
 **📚 Other Knowledge Areas:**  
 Basics of `Operating Systems`, `Computer Networks`  
 
----
-
 ## 📂 Projects  
 Want to see what I’ve been building?  
 👀 Take a sneak peek into my coding world on GitHub!  
-👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄  
-Who knows? You might discover your next favorite side project! 😄
+👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄 
