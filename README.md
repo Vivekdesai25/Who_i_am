@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Vivek  
+# 👋 Hello,I'm Vivek  
 **An MCA student passionate about technology and data analytics.**  
 
 📧 **Email**: vivekdesaipersonal@gmail.com  
 📱 **Phone**: 6360228217  
 💻 **LeetCode** – [Vivek Desai](https://leetcode.com/u/vivek252003/)  
 🌐 **GitHub Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)
+
 📄 **Resume** – [View My Resume (PDF)](https://github.com/Vivekdesai25/Who_i_am/raw/main/vivek%20resume.pdf)
 
 
