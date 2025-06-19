@@ -13,13 +13,13 @@
 
 🎓 I’m currently pursuing **Master of Computer Applications (MCA)** from **Nitte Meenakshi Institute of Technology**, Bengaluru, Karnataka.
 
-🧑‍💻 I'm a **fresher** in the learning phase, passionate about building real-world projects 
+🧑‍💻 I'm a __init__**(fresher)** in the learning phase, passionate about building real-world projects 
 
-🌱 Currently learning: **Data Visualization**, **Python frameworks** 
+🌱 Currently Importing : **Data Visualization**, **Python frameworks** 
 
 💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools (Train & Test )
 
 **🧩 Backend & Database:**  
 `Python`, `Java`, `Node.js`, `C`, `MongoDB`, `MySQL`  
@@ -36,7 +36,7 @@
 **📚 Other Knowledge Areas:**  
 Basics of `Operating Systems`, `Computer Networks`  
 
-## 📂 Projects  
+## 📂 Projects 
 Want to see what I’ve been building?  
 👀 Take a sneak peek into my coding world on GitHub!  
 👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄 
