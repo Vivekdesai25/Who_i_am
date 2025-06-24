@@ -8,7 +8,7 @@
 📱 **Phone**: 6360228217  
 
 
-📄 **Resume** – [View My Resume (PDF)](https://github.com/Vivekdesai25/Who_i_am/raw/main/vivek%20resume.pdf)
+📄 **[View My Resume (PDF)](https://github.com/Vivekdesai25/Who_i_am/raw/main/vivek%20resume.pdf)**
 
 
 ## 🎓 About Me
