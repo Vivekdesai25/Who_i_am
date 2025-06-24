@@ -3,6 +3,7 @@
 
 📧 **Email**: vivekdesaipersonal@gmail.com  
 💼 **LinkedIn**:https://www.linkedin.com/in/vivek-desai-236887259
+
 📱 **Phone**: 6360228217  
 💻 **LeetCode** – [Vivek Desai](https://leetcode.com/u/vivek252003/)  
 🌐 **GitHub Portfolio** – [vivekdesai25.github.io](https://vivekdesai25.github.io/Vivekdesai25/)
