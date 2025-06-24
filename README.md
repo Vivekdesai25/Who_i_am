@@ -2,9 +2,9 @@
 **An MCA student passionate about technology and data analytics.**  
 
 📧 **Email**: vivekdesaipersonal@gmail.com  
-💼 **[My LinkedIN]**(https://www.linkedin.com/in/vivek-desai-236887259)
-💻 **[My LeetCode]**(https://leetcode.com/u/vivek252003/)  
-🌐 **[My GitHub Portfolio]** (https://vivekdesai25.github.io/Vivekdesai25/)
+💼 **[My LinkedIN](https://www.linkedin.com/in/vivek-desai-236887259)**
+💻 **[My LeetCode](https://leetcode.com/u/vivek252003/)**  
+🌐 **[My GitHub Portfolio](https://vivekdesai25.github.io/Vivekdesai25/)** 
 📱 **Phone**: 6360228217  
 
 
