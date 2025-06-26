@@ -39,6 +39,6 @@
 Basics of `Operating Systems`, `Computer Networks`  
 
 ## 📂 Projects 
-Want to see what I’ve been building?  
+Want to see what I’ve been building? 
 👀 Take a sneak peek into my coding world on GitHub!  
 👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄 
