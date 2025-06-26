@@ -5,7 +5,7 @@
 💼 **[My LinkedIN](https://www.linkedin.com/in/vivek-desai-236887259)**    
 💻 **[My LeetCode](https://leetcode.com/u/vivek252003/)**     
 🌐 **[My GitHub Portfolio](https://vivekdesai25.github.io/Vivekdesai25/)**     
-📱 **Phone**: 6360228217  
+📱 **Phone**: 6360228217
 
 
 📄 **[View My Resume (PDF)](https://github.com/Vivekdesai25/Who_i_am/raw/main/Vivek%20Desai%20Resume.pdf)**
