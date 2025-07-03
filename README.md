@@ -30,7 +30,7 @@
 `HTML5`, `CSS3`  
 
 **⚙️ Frameworks & Libraries:**  
-`Django`, `NumPy`, `Matplotlib`, `Pandas`, `Seaborn`, `Scikit-learn`, `SciPy`  
+`Django`,'Flask',`NumPy`, `Matplotlib`, `Pandas`, `Seaborn`, `Scikit-learn`, `SciPy`  
 
 **☁️ Platforms & Tools:**  
 `Git`, `GitHub`, `AWS`  
