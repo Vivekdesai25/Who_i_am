@@ -30,10 +30,10 @@
 `HTML5`, `CSS3`  
 
 **⚙️ Frameworks & Libraries:**  
-`Django`,'Flask',`NumPy`, `Matplotlib`, `Pandas`, `Seaborn`, `Scikit-learn`, `SciPy`  
+`Django`,`Flask`,`NumPy`, `Matplotlib`, `Pandas`, `Seaborn`, `Scikit-learn`, `SciPy`  
 
 **☁️ Platforms & Tools:**  
-`Git`, `GitHub`, `AWS`  
+`Git`, `GitHub`, `AWS`, `VS Code Workbench` 
 
 **📚 Other Knowledge Areas:**  
 Basics of `Operating Systems`, `Computer Networks`  
