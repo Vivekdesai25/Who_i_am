@@ -17,14 +17,14 @@
 
 🧑‍💻 I'm a **fresher**, currently learning and excited to build real-world projects.
 
-🌱 Currently Importing : **Data Visualization**, **Python frameworks** 
+🌱 Currently Importing : **Data Visualization**, **Python frameworks**, **Tableau**, **Power BI** 
 
 💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
 
 ## 🛠️ Languages & Tools (Train & Test )
 
 **🧩 Backend & Database:**  
-`Python`, `Java`, `Node.js`, `C`, `MongoDB`, `MySQL`  
+`Python`, `Java`, `C`, `MongoDB`, `MySQL`  
 
 **🎨 Frontend:**  
 `HTML5`, `CSS3`  
